@@ -1,0 +1,14 @@
+D:\C# problem solving\bin\Debug\net8.0\C# problem solving.exe
+D:\C# problem solving\bin\Debug\net8.0\C# problem solving.deps.json
+D:\C# problem solving\bin\Debug\net8.0\C# problem solving.runtimeconfig.json
+D:\C# problem solving\bin\Debug\net8.0\C# problem solving.dll
+D:\C# problem solving\bin\Debug\net8.0\C# problem solving.pdb
+D:\C# problem solving\obj\Debug\net8.0\C# problem solving.GeneratedMSBuildEditorConfig.editorconfig
+D:\C# problem solving\obj\Debug\net8.0\C# problem solving.AssemblyInfoInputs.cache
+D:\C# problem solving\obj\Debug\net8.0\C# problem solving.AssemblyInfo.cs
+D:\C# problem solving\obj\Debug\net8.0\C# problem solving.csproj.CoreCompileInputs.cache
+D:\C# problem solving\obj\Debug\net8.0\C# problem solving.dll
+D:\C# problem solving\obj\Debug\net8.0\refint\C# problem solving.dll
+D:\C# problem solving\obj\Debug\net8.0\C# problem solving.pdb
+D:\C# problem solving\obj\Debug\net8.0\C# problem solving.genruntimeconfig.cache
+D:\C# problem solving\obj\Debug\net8.0\ref\C# problem solving.dll
